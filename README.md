@@ -19,3 +19,5 @@ npx prisma db push
 ```
 npx prisma studio
 ```
+
+learn with: https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw
